@@ -1,7 +1,7 @@
 {
-  "name": "ref_proj",
-  "version": "0.0.1",
-  "description": "reference project node/react/mongoDB",
+  "name": "001_ref_proj",
+  "version": "1.0.0",
+  "description": "reference project",
   "main": "index.js",
   "dependencies": {
     "node-static": "^0.7.11"
@@ -17,12 +17,9 @@
   },
   "keywords": [
     "ref",
-    "proj",
-    "react",
-    "node",
-    "mongodb"
+    "proj"
   ],
-  "author": "Etak",
+  "author": "etak",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/adamcece/ref_proj/issues"
