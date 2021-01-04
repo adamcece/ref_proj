@@ -1,0 +1,31 @@
+{
+  "name": "ref_proj",
+  "version": "0.0.1",
+  "description": "reference project node/react/mongoDB",
+  "main": "index.js",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamcece/ref_proj.git"
+  },
+  "keywords": [
+    "ref",
+    "proj",
+    "react",
+    "node",
+    "mongodb"
+  ],
+  "author": "Etak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamcece/ref_proj/issues"
+  },
+  "homepage": "https://github.com/adamcece/ref_proj#readme"
+}
